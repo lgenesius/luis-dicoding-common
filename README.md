@@ -1,3 +1,3 @@
 # Common
 
-A description of this package.
+A Swift Package that contain localization files that used on Gameformation app.
